@@ -1,2 +1,1 @@
-# JFMR-Research-Paper
-JFMR Research Paper
+The project involves developing the model with the best fit that solves the problem of classifying the website given its features such as Has_ URL. Has_ Anchor, URL_ age, web traffic, age of domain, etc.., From this given information the model that is to be chosen should be able to classify a website from the user input as a Phishing, Non-Phishing or Suspicious website. The dataset chosen contains thousands of testcases with the features of 9 different attributes that define the phishing websites. From this using various algorithms such as ML based algorithms, DL based algorithms and Genetic Algorithm, models are to be made. The model with the best fit is to be taken for final consideration.
